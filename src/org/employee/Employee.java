@@ -13,11 +13,9 @@ public class Employee {
 		
 	}
 	
-	public void empPhone3()
+	public void empPhone()
 	{
-		
 		System.out.println("9941476036");
-		
 	}
 	
 	public static void main(String[] args) {
