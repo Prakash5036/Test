@@ -18,6 +18,12 @@ public class Employee {
 		System.out.println("9941476036");
 	}
 	
+	public void empPhone2()
+	{
+		System.out.println("9941482567");
+		
+	}
+	
 	public static void main(String[] args) {
 		
 		Employee a=new Employee();
