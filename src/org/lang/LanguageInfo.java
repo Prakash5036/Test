@@ -6,5 +6,11 @@ public class LanguageInfo {
 	{
 		System.out.println("Chennai");
 	}
+	
+
+	public void tamilLanguage2()
+	{
+		System.out.println("Chennai");
+	}
 
 }
